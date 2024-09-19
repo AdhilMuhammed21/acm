@@ -9,7 +9,7 @@ const Navbar = () => {
     }
   return (
     <>
-    <div className='hidden md:flex justify-center item-center pt-8 pb-3 bg-[#84B7F2] h-24 w-screen'>
+    <div className='hidden md:flex justify-center item-center pt-8 pb-3 bg-[#113056] h-24 w-screen'>
         <div className='flex gap-20 text-2xl h-full  text-white font-bold item-center'>
             <h1>Home</h1>
             <h1>Events</h1>
